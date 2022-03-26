@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soohwan Kim. I'm currently a student in Computer programming major in Fanshawe College.
+- 👋 Hi, I’m Soohwan Kim. I'm currently a student in Fanshawe College and doing computer programming course.
 - 👀 I’m interested in A.I engineering and Game developing. And I've been finding server backend developing interesting since quite recently.
 - 🌱 I’m currently learning C++ , Unreal Engine 5 blueprint/c++, Blender, JS, HTML, JAVA, AWS and Python
 - 💞️ I’m looking to collaborate on Game developing and Full stack dev
