@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soohwan Kim. I'm currently a student in Fanshawe College and doing computer programming course.
+- 👋 Hi, I’m Soohwan Kim. I'm currently a student in University of Guelph and finishing my Bachelor of Computing degree.
 - 👀 I’m interested in full stack developing, A.I engineering and Game developing.
 - 🌱 I’m currently learning C++ , Unreal Engine 5 blueprint/c++, Blender, JS, HTML, JAVA, AWS and Python
 - 💞️ I’m looking for a job on Full stack dev or Backend dev
