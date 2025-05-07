@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soohwan Kim. I am working in a HFT trading firm as a system trading developer/linux server developer.
 - 🏫 I majored in General Computing in University of Guelph.
-- 👀 I’m interested in Linux System Programming, Kernel Driver Engineering, full stack developing, A.I engineering and Game developing.
+- 👀 I’m interested in Linux System Programming, Kernel Driver Engineering, full stack developing, and Game developing.
 - 📫 How to reach out to me -> rlatnghks789456@gmail.com
 
 <!---
